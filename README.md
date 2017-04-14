@@ -3,11 +3,12 @@ Example of reconstruction original size chroma in YCbCr.
 
 The project is basically a decoder from [jpeg-js](https://github.com/eugeneware/jpeg-js) with small additions.
 
+Example:
 ```javasript
-var decoder = require('jpeg-js-chroma-hq');
+var decode = require('jpeg-js-chroma-hq');
 var jpegData = fs.readFileSync('grumpycat.jpg');
-var rawImageData = decoder(jpegData);
-console.log(jpegData.data);
+var rawImageData = decode(jpegData);
+console.log(rawImageData);
 /*
 { width: 320,
   height: 180,
