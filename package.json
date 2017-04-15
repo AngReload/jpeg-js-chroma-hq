@@ -1,6 +1,6 @@
 {
   "name": "jpeg-js-chroma-hq",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Example of reconstruction original size chroma in YCbCr.",
   "main": "index.js",
   "directories": {
