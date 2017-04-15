@@ -27,4 +27,4 @@ Decoding result with `jpeg-js`:
 ![jpeg-js result](https://raw.github.com/AngReload/jpeg-js-chroma-hq/master/comparison/chroma-subsampling-test-4k-tv.jpg-js.png)
 
 Decoding result with `jpeg-js-chroma-hq`:
-![jpeg-js result](https://raw.github.com/AngReload/jpeg-js-chroma-hq/master/comparison/chroma-subsampling-test-4k-tv.jpeg-js-chroma-hq.png)
+![jpeg-js-chroma-hq result](https://raw.github.com/AngReload/jpeg-js-chroma-hq/master/comparison/chroma-subsampling-test-4k-tv.jpeg-js-chroma-hq.png)
