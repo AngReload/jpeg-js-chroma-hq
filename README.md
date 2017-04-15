@@ -3,6 +3,11 @@ Example of reconstruction original size chroma in YCbCr.
 
 The project is basically a decoder from [jpeg-js](https://github.com/eugeneware/jpeg-js) with small additions.
 
+# Comparison
+Decoding result with `jpeg-js` vs `jpeg-js-chroma-hq`:
+
+![jpeg-js result](https://raw.github.com/AngReload/jpeg-js-chroma-hq/master/comparison/demo_jpeg-js.png)![jpeg-js-chroma-hq result](https://raw.github.com/AngReload/jpeg-js-chroma-hq/master/comparison/demo_jpeg-js-chroma-hq.png)
+
 # Example
 
 ```javasript
@@ -22,7 +27,3 @@ The function takes a raw jpeg and returns an image object.
 The image contains the width, height and array of values `[red, green, blue, alpha, red, green ...]`.
 RGB is an integer from 0 to 255, and Alpha is always 255.
 
-# Comparison
-Decoding result with `jpeg-js` vs `jpeg-js-chroma-hq`:
-
-![jpeg-js result](https://raw.github.com/AngReload/jpeg-js-chroma-hq/master/comparison/demo_jpeg-js.png)![jpeg-js-chroma-hq result](https://raw.github.com/AngReload/jpeg-js-chroma-hq/master/comparison/demo_jpeg-js-chroma-hq.png)
