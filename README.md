@@ -24,4 +24,5 @@ RGB is an integer from 0 to 255, and Alpha is always 255.
 
 # Comparison
 Decoding result with `jpeg-js` vs `jpeg-js-chroma-hq`:
+
 ![jpeg-js result](https://raw.github.com/AngReload/jpeg-js-chroma-hq/master/comparison/demo_jpeg-js.png)![jpeg-js-chroma-hq result](https://raw.github.com/AngReload/jpeg-js-chroma-hq/master/comparison/demo_jpeg-js-chroma-hq.png)
