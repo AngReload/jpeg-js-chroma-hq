@@ -8,6 +8,12 @@ Decoding result with `jpeg-js` vs `jpeg-js-chroma-hq`:
 
 ![jpeg-js result](https://raw.github.com/AngReload/jpeg-js-chroma-hq/master/comparison/demo_jpeg-js.png)![jpeg-js-chroma-hq result](https://raw.github.com/AngReload/jpeg-js-chroma-hq/master/comparison/demo_jpeg-js-chroma-hq.png)
 
+#Install
+
+```
+npm install jpeg-js-chroma-hq
+```
+
 # Example
 
 ```javasript
